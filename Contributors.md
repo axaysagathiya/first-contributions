@@ -2,6 +2,7 @@
 
 # **Contributors**
 
+- [Vaibhav Paliwal](https://github.com/Vaibhav6200)
 - [Thulani Nyama](https://github.com/ThulaniNyama)
 - [Aniket Kumar](https://github.com/ghostrider22)
 - [Abhi Kamble](https://github.com/coder-abhi)
@@ -81,7 +82,7 @@
 - Karin
 - [José Londoño](https://github.com/jlondonob)
 - [Hemanth](https://github.com/anumolu-hemanth)
-- [Shneior Aizen](https://github.com/Shneior770) 
+- [Shneior Aizen](https://github.com/Shneior770)
 - [Joshua Hinojo] (https://github.com/jgone99)
 - [Prashant Singh] (https://github.com/Prashant-17-11)
 - [Alina Ronghangpi](https://github.com/pushki-elena)
@@ -143,8 +144,8 @@
   [Siva Sundar](https://github.com/siivvaa)
 - [Chiranjeev Agrawal](https://github.com/chiranjeevagrawal57)
 - [Manuel Str_F](https://github.com/WebDevManuel)
-- [Savan Bhanderi](https://github.com/Savan414) 
-- [Karelle Hofler](https://github.com/karellehofler) 
+- [Savan Bhanderi](https://github.com/Savan414)
+- [Karelle Hofler](https://github.com/karellehofler)
 -[subbarao](https://github.com/subbarao515)
 - [Chiamaka Ojiyi](https://github.com/AlgoDame)
 - [Shifaat](https://github.com/Shifaat)
@@ -152,7 +153,7 @@
 - [Angel Rodriguez](https://github.com/angel2424)
 - [David Le](https://github.com/DaveLe)
 - [Dev-Sam9](https://github.com/Dev-Sam9)
-- [Debabrata Banerjee](https://github.com/debabratabanerjee) 
+- [Debabrata Banerjee](https://github.com/debabratabanerjee)
 - [Jason Petersen](https://github.com/jasonp670)
 - [Jeff lin](https://github.com/a1045520)
 - [Putri Nursofiyanti Juliashakti](https://github.com/putrinj)
@@ -1999,7 +2000,7 @@ Himanshu Dedha
 - [Sun Cold](https://github.com/Sun-Cold)
 - [Jiaget](https://github.com/Jiaget)
 - [Nitu Kumari](https://github.com/U220053)
-- [Yuri Gogolitsyn](https://github.com/ygogolitsyn) 
+- [Yuri Gogolitsyn](https://github.com/ygogolitsyn)
 - [Something Went Well](https://github.com/somethingwentwell)
 - [canntfly](https://github.com/canntfly)
 - [Yaswanthkumar Gothireddy](https://github.com/yaswanthkumargothi)
